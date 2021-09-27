@@ -19,9 +19,9 @@ Experienced in
 ------------------------------------------------
 PCB Manufacturing and Assembly Support
 ------------------------------------------------
-1. Experience in managing all phases of electronic product manufacturing and assembly
-2. Experience in board-level Testing, Debugging, Test Reports, Test Plans.
-3. Experience in collaborating with Mechanical Engineering Staff for design development and solving board related issues
+- Experience in managing all phases of electronic product manufacturing and assembly
+- Experience in board-level Testing, Debugging, Test Reports, Test Plans.
+- Experience in collaborating with Mechanical Engineering Staff for design development and solving board related issues
 
 
 <!---
