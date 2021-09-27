@@ -4,17 +4,17 @@ Currently I work through Upwork and my clients spans across Europe, Germany, USA
 ------------------
 Experienced in
 ------------------
-• Managing Remote Teams for Firmware , Mobile App and Enclosure design
-• Prototyping Initial Idea to final product.
-• Schematic and Multi-Layer Printed Circuit Board Design using Altium
-• Proof of concept using Arduino, ESP 32, NRF 52, STM 32.
-• Microcontroller based electronic Products
-• WIFI, Bluetooth, GPS, GSM, LTE based IoT products, LoRa
-• Power Supplies and Motor control design
-• Complex 12 plus multi-layer PCB
-• Single board computer design with DDR3/DDR4, Ethernet, PCIE, SATA, HDMI.
-• Rigid Flex PCB Design
-• 3D Part/product Modeling and Rendering in Solidworks
+- Managing Remote Teams for Firmware , Mobile App and Enclosure design
+- Prototyping Initial Idea to final product.
+- Schematic and Multi-Layer Printed Circuit Board Design using Altium
+- Proof of concept using Arduino, ESP 32, NRF 52, STM 32.
+- Microcontroller based electronic Products
+- WIFI, Bluetooth, GPS, GSM, LTE based IoT products, LoRa
+- Power Supplies and Motor control design
+- Complex 12 plus multi-layer PCB
+- Single board computer design with DDR3/DDR4, Ethernet, PCIE, SATA, HDMI.
+- Rigid Flex PCB Design
+- 3D Part/product Modeling and Rendering in Solidworks
 
 ------------------------------------------------
 PCB Manufacturing and Assembly Support
