@@ -1,4 +1,4 @@
-👋 Hi, I’m Kashif Mehmood. I have experience in designing and testing electronic products ranging from IOT, embedded microcontroller systems and single board computer design.
+👋 Hi, I’m Kashif Mehmood.I have experience in designing, simulation, manufacturing and assembly of PCBs . I am passionate in board bring-up , testing and integrating the overall electrical, mechanical, firmware part of electronic product.
 Currently I work through Upwork and my clients spans across Europe, Germany, USA, and Australia.
 
 ------------------
